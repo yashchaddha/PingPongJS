@@ -1,1 +1,2 @@
-A Ping Pong Game designed using HTML, CSS and JavaScript
+A Ping Pong Game developed as a POC for implementing advanced concepts of Javascript
+
